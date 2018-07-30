@@ -29,8 +29,8 @@
   "homepage": "https://github.com/svi3c/jasmine-ts#readme",
   "dependencies": {
     "jasmine": "^3.1.0",
-    "ts-node": "^3.2.0",
-    "typescript": "^2.4.1",
+    "ts-node": "^7.0.0",
+    "typescript": "^2.9.2",
     "yargs": "^8.0.2"
   },
   "devDependencies": {
